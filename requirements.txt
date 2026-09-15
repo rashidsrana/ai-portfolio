@@ -1,0 +1,47 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+sympy
+scikit-learn
+tensorflow
+
+# Deep learning / computer vision
+torch
+torchvision
+ultralytics
+opencv-python
+transformers
+
+# NLP / speech
+spacy
+textblob
+SpeechRecognition
+librosa
+
+# LLM / RAG
+openai
+google-genai
+python-dotenv
+langchain-community
+langchain-text-splitters
+langchain-ollama
+ollama
+gradio
+beautifulsoup4
+
+# Backend / APIs
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+passlib
+python-jose
+
+# Robotics (optional, requires Webots)
+# controller
+
+# Testing
+pytest

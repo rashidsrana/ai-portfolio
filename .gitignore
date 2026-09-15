@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+tf-env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+*.env
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model weights
+*.pt
+*.pth
+*.h5
+
+# FastAPI / Uvicorn cache
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
